@@ -32,7 +32,7 @@
         "filament/spatie-laravel-media-library-plugin": "^3.0",
         "filament/spatie-laravel-settings-plugin": "^3.0",
         "filament/spatie-laravel-translatable-plugin": "^3.0-stable",
-        "illuminate/contracts": "^10.0",
+        "illuminate/contracts": "^11.0",
         "kalnoy/nestedset": "^6.0.2",
         "laravel-ready/readable-numbers": "^1.0.3",
         "pragmarx/countries": "^0.8.2",
